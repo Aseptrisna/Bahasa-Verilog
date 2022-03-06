@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sun Mar 06 09:51:02 2022
+# Process ID: 23188
+# Current directory: D:/23221111/Data S2/Semester 2/System on Chip/Project/full_adder/full_adder.runs/synth_1
+# Command line: vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: D:/23221111/Data S2/Semester 2/System on Chip/Project/full_adder/full_adder.runs/synth_1/top.vds
+# Journal file: D:/23221111/Data S2/Semester 2/System on Chip/Project/full_adder/full_adder.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace
